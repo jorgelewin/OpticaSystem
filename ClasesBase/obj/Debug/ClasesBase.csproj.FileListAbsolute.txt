@@ -1,0 +1,5 @@
+E:\OpticalSystem\OpticaSystem\ClasesBase\bin\Debug\ClasesBase.dll
+E:\OpticalSystem\OpticaSystem\ClasesBase\bin\Debug\ClasesBase.pdb
+E:\OpticalSystem\OpticaSystem\ClasesBase\obj\Debug\ResolveAssemblyReference.cache
+E:\OpticalSystem\OpticaSystem\ClasesBase\obj\Debug\ClasesBase.dll
+E:\OpticalSystem\OpticaSystem\ClasesBase\obj\Debug\ClasesBase.pdb

@@ -1,0 +1,10 @@
+E:\OpticalSystem\OpticaSystem\Vistas\bin\Debug\Vistas.exe
+E:\OpticalSystem\OpticaSystem\Vistas\bin\Debug\Vistas.pdb
+E:\OpticalSystem\OpticaSystem\Vistas\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\OpticalSystem\OpticaSystem\Vistas\obj\x86\Debug\Vistas.Properties.Resources.resources
+E:\OpticalSystem\OpticaSystem\Vistas\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\OpticalSystem\OpticaSystem\Vistas\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\OpticalSystem\OpticaSystem\Vistas\obj\x86\Debug\Vistas.exe
+E:\OpticalSystem\OpticaSystem\Vistas\obj\x86\Debug\Vistas.pdb
+E:\OpticalSystem\OpticaSystem\Vistas\bin\Debug\ClasesBase.dll
+E:\OpticalSystem\OpticaSystem\Vistas\bin\Debug\ClasesBase.pdb
